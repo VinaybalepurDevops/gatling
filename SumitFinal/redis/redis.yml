@@ -1,0 +1,9 @@
+auth:
+    enabled: true
+    password: cap123
+master:
+    resources:
+        limits:
+            cpu: 200m
+            memomry: 200Mi
+
